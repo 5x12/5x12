@@ -3,6 +3,11 @@
 - :octocat: ml tech lead
 - :link: check my [portfolio](https://awolf.io)
 - :orange_book: author of [Machine Learning Simplified](https://themlsbook.com) book
+- :cyclone: creator of [pipely](https://pypi.org/project/pipely/) - an opensource library
+
+<!-- ### Opensource 
+- :cyclone: creator of [pipely](https://pypi.org/project/pipely/) - an opensource library -->
+<!-- - :school_satchel:  of [ml-cookbook]() -->
 
 <!--
 **5x12/5x12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
