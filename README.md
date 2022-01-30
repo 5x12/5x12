@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- :octocat: ml tech lead
+- :orange_book: author of [Machine Learning Simplified](themlsbook.com) book
+
 <!--
 **5x12/5x12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
