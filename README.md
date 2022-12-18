@@ -8,7 +8,7 @@
 
 Hi, my name is Andrew and I am a data lead with over 6 years of experience in the field.
 
-I have a strong background in building end-to-end solutions based on ML, and have worked with a variety of tools and technologies (tech skills are listed on [my profile](awolf.io).
+I have a strong background in building end-to-end solutions based on ML, and have worked with a variety of tools and technologies (tech skills are listed on [my profile](awolf.io)).
 
 Throughout my career, I have led data-driven projects and initiatives that have delivered significant business value. I am skilled at translating complex data insights into actionable recommendations, and have a track record of driving data-informed decision making across organizations.
 
