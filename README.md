@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :octocat: ml tech lead ([read more](https://awolf.io))
+- :octocat: my [portfolio ](https://awolf.io)
 - :orange_book: author of [Machine Learning Simplified](https://themlsbook.com) book
 - :cyclone: creator of [pipely](https://pypi.org/project/pipely/) - an opensource library
 
