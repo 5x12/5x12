@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- :octocat: my [portfolio ](https://awolf.io)
+- :octocat: more about me [here](https://5x12.ai)
 - :orange_book: author of [Machine Learning Simplified](https://themlsbook.com) book
-<!-- - :cyclone: creator of [pipely](https://pypi.org/project/pipely/) - an opensource library -->
+- :cyclone: creator of [ML in Production: From Data Scientist to ML Engineer](https://www.udemy.com/course/ml-in-production) course
 
 <!-- ---
 
